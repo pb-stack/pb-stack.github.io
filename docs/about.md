@@ -36,10 +36,6 @@
 
 
 
-I'm a DPhil student in Machine Learning at the University of Oxford, focusing on AI Safety, Interpretability, and Multi-Agent Systems.
+I’m an engineer who lives at the exact spot where robotics, artificial intelligence, and the sustainability imperative collide. For the last four-plus years I’ve been designing, building, and deploying systems that don’t just automate: they rethink how physical work and intelligent decision-making should coexist on this planet. We are right in the middle of the greatest re-architecture of physical work since the "invention" of the pulley and hoist systems. The winning systems of the 2030-2040s will be those that treat intelligence, energy, and human well-being as first-class variables in the same optimization problem.
 
-Previously, I was a Research Scientist Intern at Spotify and worked with the UK AI Security Institute (AISI) on their Bounty Programme investigating automated design of agentic systems. I was also the founding Research Scientist at Convergence (acquired by Salesforce), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users, and held senior engineering roles at Pynea and Artera, leading teams and shipping ML innovations.
-
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
+If you’re building (or funding) the next generation of intelligent physical systems — robotics, AI, sustainable technology — anywhere in Europe or beyond, let’s talk. I’m always looking for the next hard problem that challeneges the prosperity of human kind.
