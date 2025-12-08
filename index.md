@@ -10,7 +10,7 @@ Hi, I am **Pranav**. Nice to meet you!<br>
 
 Currently based in Amstelveen, Netherlands. Having recently relocated, I hope to work with new clients, problems, growth sectors, and a unique environment.
 
-Across a portfolio of $4+$ years of engagements, I have designed, sold, and deployed Industry 4.0 solutions, ranging from robotic automation and AMR fleets to full-stack WMS/ERP integrations initiatives. My projects are focused on driving $3$ to $5$ times throughput gains and $30$ to $50$ percent cost reductions for Fortune 500 and high-growth clients in e-commerce, pharma, automotive, and manufacturing. Merging deep systems thinking and structured problem solving with hands-on execution across hardware, software, and commercial strategy, I am uniquely positioned to convert operational challenges into opportunities for growth
+Across a portfolio of 4+ years of engagements, I have designed, sold, and deployed Industry 4.0 solutions, ranging from robotic automation and AMR fleets to full-stack WMS/ERP integrations initiatives. My projects are focused on driving 3-5 X throughput gains and 30%-50% cost reductions for Fortune 500 and high-growth clients in e-commerce, pharma, automotive, and manufacturing. Merging deep systems thinking and structured problem solving with hands-on execution across hardware, software, and commercial strategy, I am uniquely positioned to convert operational challenges into opportunities for growth.
 
 I hold a Master's Engineering degree from the University of Cambridge, where I was a recipient of the St. John’s-Darwin Research Award. During my time at Cambridge, I completed consulting placements with leading firms including Kohler Mira, Thales, Bastion Therapeutics, and Kettle Foods, delivering commercialization strategies and operational improvements. I also hold an advanced diploma in Renewable Energy and Policy and trained as an Electrical/Electronics Engineer in my bachelor's degree.
 
@@ -39,18 +39,22 @@ When I'm not at my desk, you'll find me mountaineering, trail running, or at the
   Reported to the Managing Partner on several client engagements. Delivered carbon-reduction and ESG strategies for enterprise clients, building full value-chain emission assessments (Scope 1–3) and compliance frameworks (GRESB, CDP, CSRD/ESRS). Created dashboards and KPIs that enabled leadership to turn sustainability commitments into measurable business value.
 
 - **[University of Cambridge – IfM](https://www.ifm.eng.cam.ac.uk/)**, **[AtkinsRéalis](https://www.atkinsrealis.com)**, **[Siemens](https://www.siemens.com/global/en.html)**  
-  • Supported a £multi-billion digital transformation program at AtkinsRéalis global PMO — built bidding analysis tools, risk models, automated contract workflows, and performance reporting systems.  
+  • Supported a £multi-billion digital transformation program at AtkinsRéalis global PMO; built bidding analysis tools, risk models, automated contract workflows, and performance reporting systems.  
   • Sharpened structured problem-solving, stakeholder management, and executive-level presentation skills
 
 
 ## Areas of Expertise
 
+- Operations Excellence
+- Product Management
+- Program Management
 - Industrial Automation & Industry 4.0
 - Supply Chain Optimization & Analytics
 - Robotics & AMR/AGV Systems
 - Digital Transformation & ERP/WMS Integration
 - Product Strategy & Partnership Development
 - Sustainability & ESG Performance
+- Consulting and Business Development
 
 
 ## Skills & Competencies
