@@ -4,14 +4,14 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Ramblings
+## Blogs
 
-### 2025
+### 2024
 
-- <a href="https://pb-stack.github.io/blogs/B1/index.html" rel="nofollow">GitHub Pages</a> 
+- <a href="https://pb-stack.github.io/blogs/RobotR/index.html" rel="nofollow">Robotics and Warehouse Automation Resources</a> 
 <br>
 
-## Leave a Message
+
 
 <br>
 
