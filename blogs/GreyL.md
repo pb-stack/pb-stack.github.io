@@ -7,9 +7,6 @@ title: Grey Literature - Supply Chains
 #### Why this list?  
 I've sifted through hundreds of reports from vendor sites and consultancies; this is the shortlist that actually moves the needle. Prioritizing free downloads, recent pubs (2023+), and cross-industry applicability. Use it to benchmark your stack or spark that next RFP.
 
-#### Contributing  
-Spot a must-add? PR it in or ping me: **pranavbharadwaj2023@gmail.com**  
-Source → [github.com/yourusername/supply-chain-briefs](https://github.com/yourusername/supply-chain-briefs)
 
 ### o9 Solutions – AI-Powered Planning & Control Towers
 - [Industrial Manufacturers Need Supply Chain Control Towers](https://o9solutions.com/resources/industrial-control-tower-whitepaper/) – Breaks down how control towers enable real-time decisiveness amid disruptions; includes agility benchmarks and a case for integrating legacy systems.
