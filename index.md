@@ -59,13 +59,13 @@ When I'm not at my desk, you'll find me mountaineering, trail running, or at the
 
 ## Skills & Competencies
 
-**Technical:** Operations Excellence · Industrial Automation · Robotics & AMR/AGVs · Industry 4.0 Platforms · IIoT & RFID · Digital Twin · ERP/WMS/MES Integration · API Design · PLC Systems · Machine Vision
+**Technical:** <br> Operations Excellence · Industrial Automation · Robotics & AMR/AGVs · Industry 4.0 Platforms · IIoT & RFID · Digital Twin · ERP/WMS/MES Integration · API Design · PLC Systems · Machine Vision <br>
 
-**Software:** MATLAB · Python · Salesforce · Power BI · CAD · SolidWorks · Siemens Technomatix · LabVIEW (CLAD) · Azure Boards
+**Software:** <br> MATLAB · Python · Salesforce · Power BI · CAD · SolidWorks · Siemens Technomatix · LabVIEW (CLAD) · Azure Boards <br>
 
-**Business:** Project Management (Agile/Scrum) · Product Strategy & Roadmap · Cross-functional Leadership · Vendor & Stakeholder Management · Market Research · Risk Assessment
+**Business:**  <br> Project Management (Agile/Scrum) · Product Strategy & Roadmap · Cross-functional Leadership · Vendor & Stakeholder Management · Market Research · Risk Assessment <br>
 
-**Languages:** Dutch (basic) · English (fluent) · Hindi · Kannada · Telugu · Tamil · German (basic)
+**Languages:** <br> Dutch (basic) · English (fluent) · Hindi · Kannada · Telugu · Tamil · German (basic) <br>
 
 ---
 <br>
