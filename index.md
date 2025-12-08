@@ -8,15 +8,30 @@ layout: page
 
 Hi, I am **Pranav**. Nice to meet you!<br>
 
-I am a technology and supply chain professional with 4+ years of hands-on experience driving the development and delivery of complex industrial automation and software solutions. Currently based in Amstelveen, I specialize in translating complex customer needs into effective solutions through strong technical and commercial skills, and managing cross-functional collaboration across Industry 4.0 platforms, robotics, and enterprise system integration.
+Currently based in Amstelveen, Netherlands. I am a technology and supply chain professional with 4+ years of hands-on experience driving the development and delivery of complex enterprise solutions (hardware + software). I specialize in translating customer needs into effective solutions through strong problem solving, technical and commercial skills, and managing cross-functional collaboration across Industry 4.0 platforms, and enterprise system integration.
 
-I hold an MPhil in Industrial Systems, Manufacture, and Management from the [University of Cambridge](https://www.ifm.eng.cam.ac.uk/), where I was a recipient of the St. John's-Darwin Research Award. During my time at Cambridge, I completed consulting placements with leading firms including Kohler Mira, Thales, Bastion Therapeutics, and Kettle Foods, delivering commercialization strategies and operational improvements.
+I hold a Master's Engineering degree from the University of Cambridge, where I was a recipient of the St. John’s-Darwin Research Award. During my time at Cambridge, I completed consulting placements with leading firms including Kohler Mira, Thales, Bastion Therapeutics, and Kettle Foods, delivering commercialization strategies and operational improvements.
 
-Most recently, I served as Manager of Product and Solution Sales at [Addverb Technologies](https://www.addverb.com/), where I generated $1.5M+ in revenue through transformative automation projects and developed the firm's first Vendor Partnership Program, securing $300K+ in annual sales. I have international experience across the UK, Europe, and Asia, with expertise spanning supply chain optimization, digital transformation, and sustainable manufacturing systems.
+When I'm not optimizing supply chains or designing automation solutions, you'll find me mountaineering, trail running, or at the clay shooting range. I'm passionate about travel, food exploration, and classic rock music.
 
-I am always open to discussing opportunities in automation, supply chain strategy, and technology partnerships. Please feel free to reach out to me at **pranavbharadwaj2023 [at] gmail.com**
+
 
 ---
+
+## Education & Credentials
+
+- **Masters Engineering - Industrial Systems, Manufacture, Management** – University of Cambridge (2019)
+- **Post Graduate Diploma in Renewable Energy Systems** – TERI School of Advanced Studies (2018)
+- **Bachelors in Electrical and Electronics Engineering** – SRM Institute (2017, First Class with Distinction)
+- **Professional Memberships**: Member IEEE, Fellow Royal Asiatic Society, Member PMI (pursuing PMP), Member IET
+- **Public Policy**:Participant, 25-day residential program focused on public policy and governance, leadership, and nation-building
+
+---
+## Work Experience
+- Addverb Technologies (https://addverb.com): Joined the startup in its hyperscale days (part of the 0 →1 journey), wore multiple “hats” and  reported to Co-Founders. With an aim to make supply chains more responsive and efficient: Led workstreams w.r.t data mapping, solution design, sales, and delivery of complex robotic warehouse and factory automation systems (ASRS, AMRs, WMS-ERP, material handling, vision-enabled robotics) for automotive, e-commerce, energy, manufacturing, and pharma clients. Balanced customer-centric system design, persuasive sales + innovative solution application, and project accountability from drawing board to on-site deployment.
+- Orbis Advisory (https://orbisadvisory.com): Reported to the Managing Partner. Strengthened data analysis skills and ESG advisory skills by delivering carbon reduction strategies and enabled client leadership to track and act on sustainability KPIs, creating measurable environmental and business value. Developed sustainability expertise in full carbon/emission value-chain assessment (Scope 1–3 ), and compliance (eg: GRESB, CDP, CSRD/ESRS etc). 
+- IfM Cambridge (https://www.ifm.eng.cam.ac.uk/) / Atkins (https://www.atkinsrealis.com/) / Siemens (https://www.siemens.com/): Developed problem solving skillset,  and presentation techniques. At Atkins (global EPC), supported a major Digital Transformation Program within the global PMO by developing bidding analysis, risk modeling, performance reporting, and contract automation tools thus accelerating decision-making and transparency in complex, multi-stakeholder environments.
+
 
 ## Areas of Expertise
 
@@ -27,44 +42,18 @@ I am always open to discussing opportunities in automation, supply chain strateg
 - Product Strategy & Partnership Development
 - Sustainability & ESG Performance
 
----
-
-## Professional Highlights
-
-- **Jan 2025**：Completed 4+ years at Addverb Technologies, delivering $1.5M+ in automation solutions and building strategic partnership programs.
-- **Oct 2024**：Recognized as Subject Matter Expert (SME) for product positioning strategy that drove $50K+ in additional revenue.
-- **2023**：Reduced solution turnaround time by ~30% through workflow integration with Azure-Boards, Salesforce, and CAD tools.
-- **2022**：Successfully trained 50+ personnel across 7+ partner offices, establishing KPIs and review cadences for quality assurance.
-- **Oct 2019**：Awarded MPhil degree from University of Cambridge with Grade 6.6/8.0 and St. John's-Darwin Research Award.
-- **2019**：Conducted sustainability audits for £42M client at Orbis Advisory, developing strategies to reduce carbon emissions by 30%.
-- **2018**：Led £4.42M commercialization strategy for digital rail solution during Cambridge consulting placement.
-
----
-
-## Education & Credentials
-
-- **MPhil in Industrial Systems, Manufacture, Management** - University of Cambridge (2019)
-- **Post Graduate Diploma in Renewable Energy Systems** - TERI School of Advanced Studies (2018)
-- **B.Tech in Electrical and Electronics Engineering** - SRM Institute (2017, First Class with Distinction)
-- **Professional Memberships**: Member IEEE, Fellow Royal Asiatic Society, Member PMI (pursuing PMP), Member IET
-
----
 
 ## Skills & Competencies
 
-**Technical:** Industrial Automation · Robotics & AMR/AGVs · Industry 4.0 Platforms · IoT & RFID · Digital Twin Modeling · ERP/WMS/MES Integration · API Design · PLC Systems · Machine Vision
+**Technical:** Operations Excellence · Industrial Automation · Robotics & AMR/AGVs · Industry 4.0 Platforms · IIoT & RFID · Digital Twin · ERP/WMS/MES Integration · API Design · PLC Systems · Machine Vision
 
-**Software:** MATLAB · Python · Salesforce · Power BI · CAD · Solidworks · Siemens Technomatix · LabView (CLAD) · Azure-Boards
+**Software:** MATLAB · Python · Salesforce · Power BI · CAD · SolidWorks · Siemens Technomatix · LabVIEW (CLAD) · Azure Boards
 
 **Business:** Project Management (Agile/Scrum) · Product Strategy & Roadmap · Cross-functional Leadership · Vendor & Stakeholder Management · Market Research · Risk Assessment
 
-**Languages:** English (fluent) · Hindi · Kannada · Telugu · Tamil · German (basic)
+**Languages:** Dutch (basic) · English (fluent) · Hindi · Kannada · Telugu · Tamil · German (basic)
 
 ---
-
-## Beyond Work
-
-When I'm not optimizing supply chains or designing automation solutions, you'll find me mountaineering, trail running, or at the clay shooting range. I'm passionate about travel, food exploration, and classic rock music. I also founded the SRM IEEE Chapter, growing membership from 1 to 63 students and raising $3,500+ for technical workshops.
 <br>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A pleasure to discuss &quot;Manifattura Lamborghini&quot; - smart factory concepts and innovative production technologies of <a href="https://twitter.com/Lamborghini?ref_src=twsrc%5Etfw">@Lamborghini</a>. Thank you <a href="https://twitter.com/Lamborghini?ref_src=twsrc%5Etfw">@Lamborghini</a> for the insightful visit. <a href="https://twitter.com/hashtag/Ismm_cam?src=hash&amp;ref_src=twsrc%5Etfw">#Ismm_cam</a> <a href="https://t.co/pXF94G7DZT">pic.twitter.com/pXF94G7DZT</a></p>&mdash; ISMMCambridge (@ISMM_IfM) <a href="https://twitter.com/ISMM_IfM/status/1116423377357549571?ref_src=twsrc%5Etfw">April 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
