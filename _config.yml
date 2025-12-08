@@ -41,8 +41,8 @@ owner:
 links:
   - title: About Me
     url: /
-  - #title: Publications
-    #url: /publications/
+  - title: CV
+    url: https://pb-stack.github.io/file/pranavbharadwaj2023_gmail.pdf
   #- title: Services
   #  url: /services/
  # - title: Awards

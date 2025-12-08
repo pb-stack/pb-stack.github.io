@@ -8,11 +8,13 @@ layout: page
 
 Hi, I am **Pranav**. Nice to meet you!<br>
 
-Currently based in Amstelveen, Netherlands. I am a technology and supply chain professional with 4+ years of hands-on experience driving the development and delivery of complex enterprise solutions (hardware + software). I specialize in translating customer needs into effective solutions through strong problem solving, technical and commercial skills, and managing cross-functional collaboration across Industry 4.0 platforms, and enterprise system integration.
+Currently based in Amstelveen, Netherlands. Having recently relocated, I hope to work with new clients, problems, growth sectors, and a unique environment.
 
-I hold a Master's Engineering degree from the University of Cambridge, where I was a recipient of the St. John’s-Darwin Research Award. During my time at Cambridge, I completed consulting placements with leading firms including Kohler Mira, Thales, Bastion Therapeutics, and Kettle Foods, delivering commercialization strategies and operational improvements.
+Across a portfolio of $4+$ years of engagements, I have designed, sold, and deployed Industry 4.0 solutions, ranging from robotic automation and AMR fleets to full-stack WMS/ERP integrations initiatives. My projects are focused on driving $3$ to $5$ times throughput gains and $30$ to $50$ percent cost reductions for Fortune 500 and high-growth clients in e-commerce, pharma, automotive, and manufacturing. Merging deep systems thinking and structured problem solving with hands-on execution across hardware, software, and commercial strategy, I am uniquely positioned to convert operational challenges into opportunities for growth
 
-When I'm not optimizing supply chains or designing automation solutions, you'll find me mountaineering, trail running, or at the clay shooting range. I'm passionate about travel, food exploration, and classic rock music.
+I hold a Master's Engineering degree from the University of Cambridge, where I was a recipient of the St. John’s-Darwin Research Award. During my time at Cambridge, I completed consulting placements with leading firms including Kohler Mira, Thales, Bastion Therapeutics, and Kettle Foods, delivering commercialization strategies and operational improvements. I also hold an advanced diploma in Renewable Energy and Policy and trained as an Electrical/Electronics Engineer in my bachelor's degree.
+
+When I'm not at my desk, you'll find me mountaineering, trail running, or at the clay shooting range. I'm passionate about travel, food exploration, and classic rock music.
 
 
 
@@ -20,17 +22,25 @@ When I'm not optimizing supply chains or designing automation solutions, you'll 
 
 ## Education & Credentials
 
-- **Masters Engineering - Industrial Systems, Manufacture, Management** – University of Cambridge (2019)
-- **Post Graduate Diploma in Renewable Energy Systems** – TERI School of Advanced Studies (2018)
-- **Bachelors in Electrical and Electronics Engineering** – SRM Institute (2017, First Class with Distinction)
+- **Masters** Engineering - Industrial Systems, Manufacture, Management – **University of Cambridge** (2019)
+- **Post Graduate Diploma** in Renewable Energy Systems – **TERI School of Advanced Studies** (2018)
+- **Bachelors** in Electrical and Electronics Engineering – **SRM Institute of Science and Technology** (2017, First Class with Distinction)
 - **Professional Memberships**: Member IEEE, Fellow Royal Asiatic Society, Member PMI (pursuing PMP), Member IET
 - **Public Policy**:Participant, 25-day residential program focused on public policy and governance, leadership, and nation-building
 
 ---
 ## Work Experience
-- Addverb Technologies (https://addverb.com): Joined the startup in its hyperscale days (part of the 0 →1 journey), wore multiple “hats” and  reported to Co-Founders. With an aim to make supply chains more responsive and efficient: Led workstreams w.r.t data mapping, solution design, sales, and delivery of complex robotic warehouse and factory automation systems (ASRS, AMRs, WMS-ERP, material handling, vision-enabled robotics) for automotive, e-commerce, energy, manufacturing, and pharma clients. Balanced customer-centric system design, persuasive sales + innovative solution application, and project accountability from drawing board to on-site deployment.
-- Orbis Advisory (https://orbisadvisory.com): Reported to the Managing Partner. Strengthened data analysis skills and ESG advisory skills by delivering carbon reduction strategies and enabled client leadership to track and act on sustainability KPIs, creating measurable environmental and business value. Developed sustainability expertise in full carbon/emission value-chain assessment (Scope 1–3 ), and compliance (eg: GRESB, CDP, CSRD/ESRS etc). 
-- IfM Cambridge (https://www.ifm.eng.cam.ac.uk/) / Atkins (https://www.atkinsrealis.com/) / Siemens (https://www.siemens.com/): Developed problem solving skillset,  and presentation techniques. At Atkins (global EPC), supported a major Digital Transformation Program within the global PMO by developing bidding analysis, risk modeling, performance reporting, and contract automation tools thus accelerating decision-making and transparency in complex, multi-stakeholder environments.
+- ### Professional Experience
+
+- **[Addverb Technologies](https://addverb.com)**  
+  Joined during the hyperscale 0→1 phase, reported directly to Co-Founders, and wore multiple hats. Led end-to-end workstreams (data mapping, solution design, presales, and delivery) for complex robotic warehouse & factory automation systems (AS/RS, AMRs, sortation, WMS–ERP integration, vision-enabled picking) across automotive, e-commerce, energy, manufacturing, and pharma. Took projects from concept to live deployment while balancing customer-centric design, technical sales, and on-site execution. Worked on enterprise level supply chain issues.
+
+- **[Orbis Advisory](https://orbisadvisory.com)**  
+  Reported to the Managing Partner on several client engagements. Delivered carbon-reduction and ESG strategies for enterprise clients, building full value-chain emission assessments (Scope 1–3) and compliance frameworks (GRESB, CDP, CSRD/ESRS). Created dashboards and KPIs that enabled leadership to turn sustainability commitments into measurable business value.
+
+- **[University of Cambridge – IfM](https://www.ifm.eng.cam.ac.uk/)**, **[AtkinsRéalis](https://www.atkinsrealis.com)**, **[Siemens](https://www.siemens.com/global/en.html)**  
+  • Supported a £multi-billion digital transformation program at AtkinsRéalis global PMO — built bidding analysis tools, risk models, automated contract workflows, and performance reporting systems.  
+  • Sharpened structured problem-solving, stakeholder management, and executive-level presentation skills
 
 
 ## Areas of Expertise
