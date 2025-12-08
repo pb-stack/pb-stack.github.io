@@ -6,9 +6,6 @@ categories: Resources
 tags: Roborics Resources
 permalink: /blogs/RobotR/index.html
 ---
-#### Contributing  
-Found something great that’s missing? Add it via PR or shoot me an email: **pranavbharadwaj2023@gmail.com**  
-Source → [github.com/yourusername/robotics-resources](https://github.com/yourusername/robotics-resources)
 
 ### ROS 2 – From Zero to Production
 #### Beginner (get comfortable fast)
@@ -35,11 +32,20 @@ Source → [github.com/yourusername/robotics-resources](https://github.com/youru
 - [PyBullet + bullet3 examples](https://github.com/bulletphysics/bullet3)
 - [MuJoCo (now free)](https://mujoco.org/)
 
-### Warehouse & Intralogistics Automation
-- [Addverb Technical Whitepapers & Case Studies](https://addverb.com/resources/) – real deployed systems
-- [AutoStore Academy](https://www.autostoresystem.com/academy) – cube storage deep dive
-- [Dematic Learning Hub](https://www.dematic.com/en-us/learning-hub/)
-- [Swisslog Academy](https://www.swisslog.com/en-us/about-swisslog/media/learning-hub)
+### Factory & Warehouse Automation Systems
+- [Symbotic Autonomous Robotic Systems](https://www.symbotic.com/symbotic-system/) – AI-powered end-to-end warehouse platforms with real-world deployment case studies
+- [Hai Robotics Case Studies](https://www.hairobotics.com/cases) – ACR-based solutions for high-density storage in e-commerce and 3PL operations
+- [GreyOrange Resource Library](https://www.greyorange.com/insights/resource-library/) – Whitepapers and ebooks on modular, AI-driven fulfillment automation
+- [Kardex ASRS Solutions](https://www.kardex.com/en-us/applications/storage-retrieval) – Guides to automated storage retrieval for space optimization and material flow
+- [OPEX Warehouse Automation Ebook](https://www.opex.com/ebooks/a-comprehensive-guide-to-warehouse-automation/) – Step-by-step implementation for cost reduction and throughput gains
+- [Automated Warehouse Systems: Future Research Guideline (UTK Dissertation)](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=8019&context=utk_graddiss) – Academic blueprint for advancing AWS design and integration
+- [Vanderlande Warehousing Answered](https://www.vanderlande.com/us/warehousing-answered/) – Whitepapers, webinars, and videos on robotic picking, AS/RS, and agile fulfillment strategies
+- [Toyota Automated Logistics Solutions](https://toyota-automated-logistics.com/) – Integrated AGV, software, and lifecycle services for scalable intralogistics and factory flows
+- [Daifuku Intralogistics Resources](https://www.daifuku.com/solution/resource/) – Case studies and guides on conveyor, sorter, and automated storage systems for global deployments
+- [Honeywell Intelligrated Automation Hub](https://intelligrated.com/resources/) – Ebooks and reports on voice-directed picking, robotics, and AI-optimized warehouse orchestration
+- [viastore Warehouse Automation Insights](https://www.viastore.com/en-us/solutions/warehouse-automation/) – Custom AS/RS and material flow solutions with implementation frameworks and ROI calculators
+- [Jungheinrich Automation Portfolio](https://www.jungheinrich.us/en/products/automation/) – Stacker cranes, shuttles, and energy-efficient systems for high-bay storage and order fulfillment
+- [Exotec Skypod System Resources](https://www.exotec.com/insights/) – 3D robotic storage trends, scalability guides, and sustainability case studies for 2025 ops
 
 ### Top University Courses (free audit where possible
 #### Must-Do Series
