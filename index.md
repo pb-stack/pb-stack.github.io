@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://pb-stack.github.io/Profile.jpg" class="floatpic">
+<img src="https://pb-stack.github.io/Grad.jpg" class="floatpic">
 
-Here is **Pranav Bharadwaj**.<br>
+Hi, I am **Pranav**. Nice to meet you!<br>
 
 I am a technology and supply chain professional with 4+ years of hands-on experience driving the development and delivery of complex industrial automation and software solutions. Currently based in Amstelveen, I specialize in translating complex customer needs into effective solutions through strong technical and commercial skills, and managing cross-functional collaboration across Industry 4.0 platforms, robotics, and enterprise system integration.
 
