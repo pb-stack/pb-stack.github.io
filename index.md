@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://pb-stack/pb-stack.github.io/Profile.jpg" class="floatpic">
+<img src="https://pb-stack.github.io/Profile.jpg" class="floatpic">
 
 Here is **Pranav Bharadwaj**.<br>
 
