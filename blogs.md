@@ -8,8 +8,7 @@ title: Blogs
 
 ### 2025
 
-- [BLOG 1] (https://pb-stack/pb-stack.github.io/blogs/B1.md)
-
+- <a href="https://pb-stack/pb-stack.github.io/blogs/B1.md" rel="nofollow">GitHub Pages</a> 
 <br>
 
 ## Leave a Message
