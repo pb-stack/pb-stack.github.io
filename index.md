@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://pb-stack.github.io/Grad.jpg" class="floatpic">
+<img src="https://pb-stack.github.io/Grad1.jpg" class="floatpic">
 
 Hi, I am **Pranav**. Nice to meet you!<br>
 
