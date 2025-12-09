@@ -10,7 +10,7 @@ Hi, I am **Pranav**. Nice to meet you!<br>
 <br>
 Currently based in **Amstelveen, Netherlands**. Having recently relocated, I hope to work with new clients, problems, growth sectors, and a unique environment. Have worked in start-ups, consulting and client facing roles.<br>
 <br>
-- <a href="https://pb-stack.github.io/blogs/NL/index.html" rel="nofollow">**View in Nederlands/Dutch**</a> 
+<a href="https://pb-stack.github.io/blogs/NL/index.html" rel="nofollow">**View in Nederlands/Dutch**</a> 
 
  Across a portfolio of 4+ years of engagements, I have designed, sold, and deployed Industry 4.0 solutions, ranging from robotic automation and AMR fleets to full-stack WMS/ERP integrations initiatives. My projects are focused on driving 3-5 X throughput gains and 30%-50% cost reductions for Fortune 500 and high-growth clients in e-commerce, pharma, automotive, and manufacturing. Merging deep systems thinking and structured problem solving with hands-on execution across hardware, software, and commercial strategy, I am uniquely positioned to convert operational challenges into opportunities for growth.<br>
 <br>
@@ -34,15 +34,12 @@ When I'm not at my desk, you'll find me mountaineering, trail running, or at the
 ## Work Experience
 
 
-- **[Addverb Technologies](https://addverb.com)**  
-  Joined during the hyperscale 0→1 phase, reported directly to Co-Founders, and wore multiple hats. Led end-to-end workstreams (data mapping, solution design, presales, and delivery) for complex robotic warehouse & factory automation systems (AS/RS, AMRs, sortation, WMS–ERP integration, vision-enabled picking) across automotive, e-commerce, energy, manufacturing, and pharma. Took projects from concept to live deployment while balancing customer-centric design, technical sales, and on-site execution. Worked on enterprise level supply chain issues.
+- **[Addverb Technologies](https://addverb.com)**  Joined during the hyperscale 0→1 phase, reported directly to Co-Founders, and wore multiple hats. Led end-to-end workstreams (data mapping, solution design, presales, and delivery) for complex robotic warehouse & factory automation systems (AS/RS, AMRs, sortation, WMS–ERP integration, vision-enabled picking) across automotive, e-commerce, energy, manufacturing, and pharma. Took projects from concept to live deployment while balancing customer-centric design, technical sales, and on-site execution. Worked on enterprise level supply chain issues.
 
-- **[Orbis Advisory](https://orbisadvisory.com)**  
-  Reported to the Managing Partner on several client engagements. Delivered carbon-reduction and ESG strategies for enterprise clients, building full value-chain emission assessments (Scope 1–3) and compliance frameworks (GRESB, CDP, CSRD/ESRS). Created dashboards and KPIs that enabled leadership to turn sustainability commitments into measurable business value.
+- **[Orbis Advisory](https://orbisadvisory.com)**  Reported to the Managing Partner on several client engagements. Delivered carbon-reduction and ESG strategies for enterprise clients, building full value-chain emission assessments (Scope 1–3) and compliance frameworks (GRESB, CDP, CSRD/ESRS). Created dashboards and KPIs that enabled leadership to turn sustainability commitments into measurable business value.
 
-- **[University of Cambridge – IfM](https://www.ifm.eng.cam.ac.uk/)**, **[AtkinsRéalis](https://www.atkinsrealis.com)**, **[Siemens](https://www.siemens.com/global/en.html)**  
-  • Supported a multi-million digital transformation program at AtkinsRéalis global PMO; built bidding analysis tools, risk models, automated contract workflows, and performance reporting systems.  
-  • Sharpened structured problem-solving, stakeholder management, and executive-level presentation skills
+- **[University of Cambridge – IfM](https://www.ifm.eng.cam.ac.uk/)**, **[AtkinsRéalis](https://www.atkinsrealis.com)**, **[Siemens](https://www.siemens.com/global/en.html)**  Supported a multi-million digital transformation program at AtkinsRéalis global PMO; built bidding analysis tools, risk models, automated contract workflows, and performance reporting systems.  
+Sharpened structured problem-solving, stakeholder management, and executive-level presentation skills
 
 
 ## Areas of Expertise
@@ -58,13 +55,10 @@ When I'm not at my desk, you'll find me mountaineering, trail running, or at the
 - Sustainability & ESG Performance
 - Consulting and Business Development
 
-## Publications (Journal)
-
-J. Preetha Roselyn, R. Annie Uthra, Ajith Raj, D. Devaraj, Pranav Bharadwaj, Sai Vijay Deeraj Krishna Kaki  
-**Development and implementation of novel sensor fusion algorithm for occupancy detection and automation in energy efficient buildings**  
-*Sustainable Cities and Society*, Volume 44, 2019, Pages 85-98, ISSN 2210-6707  
-https://doi.org/10.1016/j.scs.2018.09.031  
-[](https://www.sciencedirect.com/science/article/pii/S2210670718313295)
+## Publications (Journal)  
+Development and implementation of novel sensor fusion algorithm for occupancy detection and automation in energy efficient buildings  
+**Elseviers Sustainable Cities and Society**, Volume 44, 2019, Pages 85-98, ISSN 2210-6707  
+[https://doi.org/10.1016/j.scs.2018.09.031](https://www.sciencedirect.com/science/article/pii/S2210670718313295)
 
 ## Skills & Competencies
 

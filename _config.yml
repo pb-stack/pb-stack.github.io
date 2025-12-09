@@ -52,8 +52,8 @@ links:
  #   url: /hobbies/
   - title: Blogs
     url: /blogs/
- # - title: 中文
- #   url: /cn/
+  - title: NL(Dutch)
+    url: /blogs/NL/index.html
 
 
 # --------------------------------------------------
@@ -94,7 +94,7 @@ kramdown:
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
 disqus:
-  shortname: lancecai
+  #shortname: lancecai
 
 
 # include: [".htaccess"]
