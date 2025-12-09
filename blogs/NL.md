@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: blogs/NL/index.html
+permalink: /blogs/NL/index.html
 title: NL
 ---
 
