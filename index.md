@@ -2,7 +2,8 @@
 layout: page
 ---
 
-# About Me
+# About Me | 
+- <a href="https://pb-stack.github.io/NL/index.html" rel="nofollow">**View in Nederlands/Dutch**</a> 
 
 <img src="https://pb-stack.github.io/Grad1.jpg" class="floatpic">
 <br>
@@ -22,10 +23,10 @@ When I'm not at my desk, you'll find me mountaineering, trail running, or at the
 
 ## Education & Credentials
 
-- **Masters** Engineering - Industrial Systems, Manufacture, Management – **University of Cambridge** (2019)
-- **Post Graduate Diploma** in Renewable Energy Systems – **TERI School of Advanced Studies** (2018)
-- **Bachelors** in Electrical and Electronics Engineering – **SRM Institute of Science and Technology** (2017, First Class with Distinction)
-- **Professional Memberships**: Member IEEE, Fellow Royal Asiatic Society, Member PMI (pursuing PMP), Member IET
+- Masters in Engineering - Industrial Systems, Manufacture, Management – **[University of Cambridge](https://www.eng.cam.ac.uk/)** (2019)
+- Post Graduate Diploma in Renewable Energy Systems – **[TERI School of Advanced Studies](https://www.terisas.ac.in/index.php)** (2018)
+- Bachelors in Electrical and Electronics Engineering – **[SRM Institute of Science and Technology](https://www.srmist.edu.in/department/department-of-electrical-and-electronics-engineering/)** (2017, First Class with Distinction)
+- **Professional Memberships**: Member IEEE, Fellow Royal Asiatic Society, Member PMI (pursuing PMP)
 - **Public Policy**:Participant, 25-day residential program focused on public policy and governance, leadership, and nation-building
 
 ---
@@ -56,6 +57,13 @@ When I'm not at my desk, you'll find me mountaineering, trail running, or at the
 - Sustainability & ESG Performance
 - Consulting and Business Development
 
+## Publications (Journal)
+
+J. Preetha Roselyn, R. Annie Uthra, Ajith Raj, D. Devaraj, Pranav Bharadwaj, Sai Vijay Deeraj Krishna Kaki  
+**Development and implementation of novel sensor fusion algorithm for occupancy detection and automation in energy efficient buildings**  
+*Sustainable Cities and Society*, Volume 44, 2019, Pages 85-98, ISSN 2210-6707  
+https://doi.org/10.1016/j.scs.2018.09.031  
+[](https://www.sciencedirect.com/science/article/pii/S2210670718313295)
 
 ## Skills & Competencies
 
