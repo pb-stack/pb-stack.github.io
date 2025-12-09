@@ -6,6 +6,8 @@ title: Blogs
 
 ## Blogs
 
+- <a href="https://pb-stack.github.io/blogs/NL/index.html" rel="nofollow">Nederland/Dutch Version - About me</a> 
+<br>
 
 - <a href="https://pb-stack.github.io/blogs/RobotR/index.html" rel="nofollow">Robotics and Warehouse Automation Resources</a> 
 <br>
