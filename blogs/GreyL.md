@@ -5,7 +5,7 @@ title: Grey Literature - Supply Chains
 ---
 
 #### Why this list?  
-I've sifted through hundreds of reports from vendor sites and consultancies; this is the shortlist that actually moves the needle. Prioritizing free downloads, recent pubs (2023+), and cross-industry applicability. Use it to benchmark your stack or spark that next RFP.
+I've sifted through hundreds of reports from vendor sites and consultancies; this is the shortlist that actually moves the needle. Prioritizing free downloads, recent pubs (2023+), and cross-industry applicability. U
 
 
 ### o9 Solutions – AI-Powered Planning & Control Towers
