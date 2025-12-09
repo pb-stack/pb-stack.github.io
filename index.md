@@ -10,7 +10,6 @@ Hi, I am **Pranav**. Nice to meet you!<br>
 <br>
 Currently based in **Amstelveen, Netherlands**. Having recently relocated, I hope to work with new clients, problems, growth sectors, and a unique environment. Have worked in start-ups, consulting and client facing roles.<br>
 <br>
-<a href="https://pb-stack.github.io/blogs/NL/index.html" rel="nofollow">**View in Nederlands/Dutch**</a> 
 
  Across a portfolio of 4+ years of engagements, I have designed, sold, and deployed Industry 4.0 solutions, ranging from robotic automation and AMR fleets to full-stack WMS/ERP integrations initiatives. My projects are focused on driving 3-5 X throughput gains and 30%-50% cost reductions for Fortune 500 and high-growth clients in e-commerce, pharma, automotive, and manufacturing. Merging deep systems thinking and structured problem solving with hands-on execution across hardware, software, and commercial strategy, I am uniquely positioned to convert operational challenges into opportunities for growth.<br>
 <br>
@@ -24,9 +23,9 @@ When I'm not at my desk, you'll find me mountaineering, trail running, or at the
 
 ## Education & Credentials
 
-- Masters in Engineering - Industrial Systems, Manufacture, Management – **[University of Cambridge](https://www.eng.cam.ac.uk/)** (2019)
-- Post Graduate Diploma in Renewable Energy Systems – **[TERI School of Advanced Studies](https://www.terisas.ac.in/index.php)** (2018)
-- Bachelors in Electrical and Electronics Engineering – **[SRM Institute of Science and Technology](https://www.srmist.edu.in/department/department-of-electrical-and-electronics-engineering/)** (2017, First Class with Distinction)
+- **[University of Cambridge](https://www.eng.cam.ac.uk/)**  Masters in Engineering - Industrial Systems, Manufacture, Management – (2019)
+- **[TERI School of Advanced Studies](https://www.terisas.ac.in/index.php)** Post Graduate Diploma in Renewable Energy Systems –  (2018)
+- **[SRM Institute of Science and Technology](https://www.srmist.edu.in/department/department-of-electrical-and-electronics-engineering/)** Bachelors in Electrical and Electronics Engineering – (2017, First Class with Distinction)
 - **Professional Memberships**: Member IEEE, Fellow Royal Asiatic Society, Member PMI (pursuing PMP)
 - **Public Policy**:Participant, 25-day residential program focused on public policy and governance, leadership, and nation-building
 
