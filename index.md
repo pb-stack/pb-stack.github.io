@@ -3,7 +3,7 @@ layout: page
 ---
 
 # About Me 
-- <a href="https://pb-stack.github.io/NL/index.html" rel="nofollow">**View in Nederlands/Dutch**</a> 
+- <a href="https://pb-stack.github.io/blogs/NL/index.html" rel="nofollow">**View in Nederlands/Dutch**</a> 
 
 <img src="https://pb-stack.github.io/Grad1.jpg" class="floatpic">
 <br>
