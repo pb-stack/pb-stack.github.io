@@ -17,21 +17,40 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+title: Pranav Bharadwaj   # Main site title (appears in browser tab & RSS)
+tagline: #  # Optional short tagline, used by some layouts
+description: Here is personal website of Pranav Bharadwaj.  # Strongly recommended for SEO & social cards
 
-title: Pranav Bharadwaj
-email: pranavbharadwaj2023@gmail.com
-description: >- # >- this means to ignore newlines until next entry
-baseurl: # leave empty if deploying to user repo gh-pages # the subpath of your site, e.g. /blog. GitHub Pages baseurl (leave blank for user pages), or add the github repo if not using user.github.io
-url: "https://pb-stack.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-cv: "https://pb-stack.github.io/file/pranavbharadwaj2023_gmail.pdf"
-github:  
-linkedin:pranav-bharadwaj 
-instagram: 
-orcid: 
-scholar: 
-# twitter: yourprofile
-# telegram: yourtelegramusername
-# leetcode: yourleetcodeusername
+# TIP ── For local development you can comment out `url`
+# and build with relative paths. In production you want this set.
+url: https://pb-stack.github.io
+owner:
+  title: Pranav Bharadwaj
+  email: pranavbharadwaj2023@gmail.com
+  description: >- # >- this means to ignore newlines until next entry
+  baseurl: # leave empty if deploying to user repo gh-pages # the subpath of your site, e.g. /blog. GitHub Pages baseurl (leave blank for user pages), or add the github repo if not using user.github.io
+  url: "https://pb-stack.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  cv: "https://pb-stack.github.io/file/pranavbharadwaj2023_gmail.pdf"
+  github:  
+  linkedin: 
+  instagram: 
+  orcid: 
+  scholar: 
+  # twitter: yourprofile
+  # telegram: yourtelegramusername
+  # leetcode: yourleetcodeusername
+
+# --------------------------------------------------
+#  TOP NAVIGATION BAR
+#  `external: true` opens the link in a new tab.
+# --------------------------------------------------
+links:
+  - title: About Me
+    url: /
+  - title: Blogs
+    url: /blogs/
+  - title: CV Download
+    url: /file/pranavbharadwaj2023_gmail.pdf
 
 # Build settings
 theme: minima
