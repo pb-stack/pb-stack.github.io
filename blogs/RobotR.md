@@ -154,3 +154,4 @@ permalink: /blogs/RobotR/index.html
 - [Rockwell + Siemens + KUKA advanced integration labs](https://compatibility.rockwellautomation.com/) – Real-world multi-vendor deployment experience
 - [Georgia Tech Supply Chain Project Management Certificate](https://pe.gatech.edu/certificates/supply-chain-project-management-certificate) – Blends PM + SCM for automation rollouts
 
+[Back to Blogs](https://pb-stack.github.io/blogs/)

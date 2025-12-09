@@ -58,3 +58,4 @@ I've sifted through hundreds of reports from vendor sites and consultancies; thi
 - Pro tip: Cross-reference with your Automation soultion provider/ ERP/WMS vendor for tailored integrations.
 
 If you're knee-deep in a transformation, hit me up!
+> [Back to Blogs](https://pb-stack.github.io/blogs/)
